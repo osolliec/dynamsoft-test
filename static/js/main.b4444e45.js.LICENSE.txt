@@ -1,0 +1,111 @@
+/* @preserve
+   * The MIT License (MIT)
+   * 
+   * Copyright (c) 2013-2018 Petka Antonov
+   * 
+   * Permission is hereby granted, free of charge, to any person obtaining a copy
+   * of this software and associated documentation files (the "Software"), to deal
+   * in the Software without restriction, including without limitation the rights
+   * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   * copies of the Software, and to permit persons to whom the Software is
+   * furnished to do so, subject to the following conditions:
+   * 
+   * The above copyright notice and this permission notice shall be included in
+   * all copies or substantial portions of the Software.
+   * 
+   * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
+   * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   * THE SOFTWARE.
+   * 
+   */
+
+/*!
+  * Dynamsoft JavaScript Library
+  * @product Dynamsoft Image IO JS Edition
+  * @website http://www.dynamsoft.com
+  * @copyright Copyright 2022, Dynamsoft Corporation
+  * @author Dynamsoft
+  * @version 1.7.3 (2022-06-22T11:11:05.912Z)
+  * @fileoverview Dynamsoft JavaScript Library for Image IO
+  * 
+  */
+
+/*!
+ * Dynamsoft JavaScript Library
+ * @product Dynamsoft Barcode Reader JS Edition
+ * @website http://www.dynamsoft.com
+ * @copyright Copyright 2022, Dynamsoft Corporation
+ * @author Dynamsoft
+ * @version 8.8.7 (js 20220125)
+ * @fileoverview Dynamsoft JavaScript Library for Barcode Reader
+ * More info on DBR JS: https://www.dynamsoft.com/barcode-reader/sdk-javascript/
+ */
+
+/*!
+ * Dynamsoft JavaScript Library
+ * @product Dynamsoft Camera Enhancer JS Edition
+ * @website http://www.dynamsoft.com
+ * @copyright Copyright 2021, Dynamsoft Corporation
+ * @author Dynamsoft
+ * @version 2.0.3 (js 20210628)
+ * @fileoverview Dynamsoft JavaScript Library for Camera Enhancer
+ * More info on DBR JS: https://www.dynamsoft.com/barcode-reader/sdk-javascript/
+ */
+
+/*! 20220624 190435 */
+
+/*! 20220627191623 - 20220627 19090
+* Dynamsoft JavaScript Library
+* Product: Dynamsoft Web Twain
+* Web Site: https://www.dynamsoft.com
+*
+* Copyright 2022, Dynamsoft Corporation
+* Author: Dynamsoft Support Team
+* Version: 17.3
+*/
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
